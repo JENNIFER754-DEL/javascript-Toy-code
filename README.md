@@ -46,3 +46,8 @@ This repository contains solutions to JavaScript toy problems, including basic a
 1. **Clone the repository**:
    ```bash
    git clone git@github.com:JENNIFER754-DEL/javascript-Toy-code.git
+2. **Navigate to the folder**
+3. **Open each .js file in a JavaScript runtime e.g.Node file name to test**
+
+**Author**
+Jennifer N
